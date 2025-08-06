@@ -1,6 +1,6 @@
 # RootMe CTF - Résolution complète
 
-![RootMe Challenge](pentest-basic.PNG)
+![RootMe Challenge](Capture.PNG)
 
 
 ## Introduction
